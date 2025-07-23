@@ -6,6 +6,6 @@ I love creating tools and referencing existing technologies to improve my skills
 
 Outside of code, you'll find me studying, hitting the gym, or drawing. Coding wise, I mainly build projects for learning purposes and to help beginners like myself, improve.<br/>
 
-##Fun Facts:<br/>
+**Fun Facts:**<br/>
 - I'm a digital artist<br/>
 - Spiderman into the Spiderverse is my favorite movie<br/>
