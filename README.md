@@ -1,4 +1,4 @@
-### Hello World!🌎
+### Hello World!👍
 
 I'm Samuel, a Software Engineer based in United States.<br/> <!-- Add linken onto my name-->
 
